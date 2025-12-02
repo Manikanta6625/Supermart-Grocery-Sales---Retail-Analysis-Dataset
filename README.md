@@ -52,7 +52,7 @@ The **Supermart Grocery Sales Analysis** project focuses on understanding retail
 
 The analysis emphasizes the importance of discount optimization, product category focus, and region-based strategic planning. By concentrating on profitable segments and reducing excessive discounting, businesses can increase margin and improve revenue growth.
 
-🔮 Future Scope
+## 🔮 Future Scope
 
 Forecasting sales using time-series prediction models
 
@@ -62,14 +62,15 @@ Customer segmentation clustering
 
 Real-time performance dashboard automation
 
-📎 Project Structure
+## 📎 Project Structure
 Supermart_Grocery_Sales/
 │-- data/
 │-- notebooks/
 │-- visuals/
 │-- README.md
 └-- requirements.txt
-👤 Author
+
+## 👤 Author
 
 Manikanta Arigela
 Data Analyst Intern
